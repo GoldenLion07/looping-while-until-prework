@@ -4,4 +4,5 @@ def using_until
         puts "Wingardium Leviosa"
         levitaton_force += 1
 end
+end
 
